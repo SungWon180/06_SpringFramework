@@ -3,6 +3,6 @@ spring:
     name: chap01-request-mapping-lecture-source
 
 server:
-   port: 9080
+   port: 8080
    servlet:
     context-path: /
